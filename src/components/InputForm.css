@@ -1,0 +1,19 @@
+InputForm {
+    background-color: palevioletred;
+    padding: 200px;
+}
+
+.input {
+    padding:10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.button {
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 10px;
+    font-size: 20px;
+}
